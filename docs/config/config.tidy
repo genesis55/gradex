@@ -1,0 +1,14 @@
+indent: auto
+indent-spaces: 2
+wrap: 80
+output-html: yes
+show-warnings: no
+custom-tags: no
+drop-script-elements: yes
+#drop-empty-elements: yes
+#drop-proprietary-attributes: yes
+new-inline-tags: pxp-gradebook-what-if, pxp-course, pxp-course-cards, pxp-course-grade-card, pxp-course-content, gradebook-google-classroom-link, render-direct
+drop-tags: pxp-gradebook-what-if, pxp-course, pxp-course-cards, pxp-course-grade-card, pxp-course-content, gradebook-google-classroom-link, render-direct
+
+
+
